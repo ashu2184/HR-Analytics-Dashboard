@@ -59,4 +59,11 @@ Customizable Framework: The dashboard can be easily adapted for different HR dat
 
 Supports Better Decision-Making: Enables HR teams to evaluate employee trends, identify retention issues, and create targeted improvement strategies.
 
+# Dashboard
+![Dashboard image](https://github.com/user-attachments/assets/4f355ada-3579-4923-a4cb-7591481c6904)
+
+# Final Conclusion:
+This HR Analytics Dashboard provides a clear and concise view of employee data, helping HR teams identify attrition patterns and make better decisions. With interactive visuals and key insights in one place, it becomes an effective tool for understanding workforce trends and improving employee retention. Created entirely in Excel, it is practical, easy to use, and ideal for both learning and real-world HR analysis.
+
+
 
