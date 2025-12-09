@@ -1,6 +1,10 @@
 # HR-Analytics-Dashboard
  This project helps to analyse employee data such as total employees, attrition, active employees, gender ratio, age-wise attrition, department-wise attrition, job role distribution, education field and marital status analysis. The dashboard gives a clear understanding of workforce trends and supports HR decision-making.
 
+ # Data Used
+ - <a href="https://github.com/ashu2184/HR-Analytics-Dashboard/blob/main/Dashboard%20image.jpg">Dataset</a>
+
+
 # Key Insights and Features
 The organisation has a total of 1470 employees, with 237 employees leaving, indicating a significant attrition pattern.
 
@@ -29,3 +33,27 @@ The project also highlights real HR challenges such as attrition, demographic pa
 What makes this project even more unique is its professional dashboard quality, created using tools available to everyone. It serves as an excellent portfolio piece for showcasing skills in data visualization, HR analytics, Excel reporting, and analytical thinking. The project reflects practical real-world scenarios, making it beneficial for learning and presenting during interviews or academic work.
 
 Overall, the dashboard stands out because it combines simplicity, interactivity, practical insights, and strong visual design—all within a single Excel file.
+
+# Project Highlights
+
+End-to-End HR Analytics Dashboard: Covers all major HR metrics such as total employees, attrition, active workforce, job satisfaction rating, and demographic insights.
+
+Fully Interactive Visualizations: Built using Pivot Tables, Pivot Charts, and Excel slicers to provide smooth filtering and dynamic analysis.
+
+Data-Driven HR Insights: Helps identify key factors behind employee attrition across departments, job roles, age groups, and marital status.
+
+Professional Design Layout: Clean, modern, and easy-to-read dashboard structure suitable for HR teams, analysts, and decision-makers.
+
+Real-World HR Scenarios: Reflects practical workforce challenges like high attrition in specific departments and younger employee turnover trends.
+
+Strong Data Visualization Approach: Uses bar charts, pie charts, treemaps, KPIs, and interactive filters to present insights in a visually appealing manner.
+
+Beginner-Friendly Yet Powerful: Created entirely in Microsoft Excel, making it accessible for students and beginners without needing advanced BI tools.
+
+Ideal Portfolio Project: Shows skills in analytics, Excel reporting, dashboard design, HR domain understanding, and data interpretation.
+
+Customizable Framework: The dashboard can be easily adapted for different HR datasets or extended with additional metrics as needed.
+
+Supports Better Decision-Making: Enables HR teams to evaluate employee trends, identify retention issues, and create targeted improvement strategies.
+
+
