@@ -24,6 +24,9 @@ Single employees show more attrition than married ones, providing insights into 
 
 The average job satisfaction score is 3.3, showing moderate engagement levels among employees.
 
+ - Dashboard Interaction <a href="https://github.com/ashu2184/HR-Analytics-Dashboard/blob/main/Dashboard%20image.jpg">View Dashboard</a>
+
+
 # Why This Project Stands Out
 
 This HR Analytics Dashboard stands out because it transforms raw HR data into meaningful, interactive, and visually appealing insights using only Microsoft Excel. Unlike basic Excel reports, this dashboard brings together multiple HR KPIs in a single, easy-to-navigate interface that even non-technical users can understand. It demonstrates how powerful Excel can be when used with Pivot Tables, Pivot Charts, and Slicers to build a complete data analysis solution without requiring any coding or advanced BI tools.
