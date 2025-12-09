@@ -2,7 +2,7 @@
  This project helps to analyse employee data such as total employees, attrition, active employees, gender ratio, age-wise attrition, department-wise attrition, job role distribution, education field and marital status analysis. The dashboard gives a clear understanding of workforce trends and supports HR decision-making.
 
  # Data Used
- - <a href="https://github.com/ashu2184/HR-Analytics-Dashboard/blob/main/Dashboard%20image.jpg">Dataset</a>
+ - <a href="https://github.com/ashu2184/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Project.xlsx">Dataset</a>
 
 
 # Key Insights and Features
